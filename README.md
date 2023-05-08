@@ -1,6 +1,6 @@
 # KaseiCoin Project
 
- ![alt=""](application-image.png)
+ ![alt=""](Images/application-image.png)
 
 ## Background
 After being selected by the Martian Aerospace Agency, you have been tasked with developing a monetary system for the first human colony on Mars. You have decided to create a blockchain-based cryptocurrency called KaseiCoin (Kasei means Mars in Japanese). To fund the project, you will launch a crowdsale, allowing people who are moving to Mars to convert their Earthling money to KaseiCoin.
